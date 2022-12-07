@@ -1,9 +1,9 @@
-# How to resend a failed Bitcoin transaction?
+# How do you resend a failed Bitcoin transaction?
 
-When users send a Bitcoin transactions with a really low fee, a transaction is likely to get rejected by the network. When this happens you may consider the transaction never happened and resend the transaction as a new transaction.
+When users send Bitcoin transactions with a really low fee value such transactions are likely to stay pending for a short time and get rejected by the network like it never happened.
 
-When you encounter a transaction with failed/rejected status in Unstoppable it's recommended to recheck that transaction actually failed using some public block explorer like [https://btc.com](https://btc.com) by searching for the ID of the respective transaction.
+When users encounter a transaction with failed (rejected) status in Coinclass it's recommended to double-check its status using some public block explorer like [https://btc.com](https://btc.com) by searching for transaction ID.
 
-If Unstoppable shows a transaction as failed/rejected but some public block explorer shows it as pending or confirmed then most likely the information provided by block explorer is the correct one. Do not attempt to resend the transaction in this case and please report the issue to Unstoppable wallet support for troubleshooting.
+If it turns out that Coinclass shows a transaction as failed but public block explorer shows it as pending or confirmed then the problem likely is within Coinclass. Users should not attempt to resend such transactions to avoid double sends and report the issue to Coinclass wallet support for troubleshooting.
 
-Consider the transaction failed and attempt to resend it only if both Unstoppable and public block explorer shows transaction as failed/rejected.
+The transaction should be considered failed only if both Coinclass and public block explorer shows it as failed/rejected.

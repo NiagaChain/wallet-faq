@@ -1,6 +1,6 @@
 # What are private keys?
 
-Usually, terms i.e. private key, mnemonic phrase, and wallet seed are used interchangeably in the cryptocurrency context. All these terms typically refer to information that is used to control funds on non-custodial cryptocurrency wallets like Unstoppable.
+Usually, terms i.e. private key, mnemonic phrase, and wallet seed are used interchangeably in the cryptocurrency context. All these terms typically refer to information that is used to control funds on non-custodial cryptocurrency wallets like Coinclass.
 
 Every non-custodial cryptocurrency wallet is expected to provide users with a private key during wallet app setup. That key is created/generated during the setup steps and typically should not be stored anywhere online.
 

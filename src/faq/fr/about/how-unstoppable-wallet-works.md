@@ -1,6 +1,6 @@
-# How unstoppable wallet works?
+# How does the Coinclass wallet work?
 
-Unstoppable engineered to work outside the traditional finance layer and acts as a Swiss knife to the world of cryptocurrencies and decentralized finance ecosystem.
+Coinclass is engineered to work outside the traditional finance layer and act as a Swiss knife to the world of cryptocurrencies and decentralized finance ecosystem.
 
 It's a direct door to the world of cryptocurrency without any gatekeepers.
 

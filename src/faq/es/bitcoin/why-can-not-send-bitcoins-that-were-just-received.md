@@ -1,7 +1,9 @@
-# Why can't send Bitcoins that were just received?
+# Why can't I send Bitcoins that were just received?
 
-In Unstoppable wallet, for a transaction recipient to be able to spend newly received Bitcoins, the transaction should receive 3 confirmations on the blockchain. 
+In Coinclass, for a transaction receipt to be able to spend newly received Bitcoins, the transaction should receive 3 confirmations on the blockchain.
 
-Only after the transaction has received 3 confirmations Unstoppable wallet app makes it possible to use received funds in new transactions. Given that the original transaction has sufficient fee this should take 30-40 min since transaction was sent. 
+Only after the transaction has received 3 confirmations Coinclass makes it possible to use received funds in new transactions.
 
-The confirmation counts can be tracked within the Unstoppable app or via public Bitcoin block explorer using the ID of the transaction.
+Given that the original transaction has sufficient fee this should take 30-40 min since the transaction was sent. The confirmation counts can be tracked within the Coinclass app or via public Bitcoin block explorer using the ID of the transaction.
+
+

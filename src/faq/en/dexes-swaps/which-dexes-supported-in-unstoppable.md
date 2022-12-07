@@ -1,6 +1,6 @@
-# Which DEXes are supported in Unstoppable?
+# Which DEXes are supported in Coinclass?
 
-Unstoppable wallet currently supports the following decentralized exchanges:
+Coinclass wallet currently supports the following decentralized exchanges:
 
 - [Uniswap](https://uniswap.org)
 
@@ -18,7 +18,7 @@ DEX integration enables asset trading within the ecosystem of a single blockchai
 
 When it comes to the 1inch aggregator, it allows traders to split a single trade order between multiple exchanges within the Ethereum or Binance Smart Chain ecosystem for an optimum price.
 
-In the future, Unstoppable aims to complete integration with the [Thorchain](https://thorchain.org) decentralized exchange that enables cryptocurrency trades between blockchains.
+In the future, Coinclass aims to complete integration with the [Thorchain](https://thorchain.org) decentralized exchange that enables cryptocurrency trades between blockchains.
 
 Thorchain integration will enable convenient decentralized token swaps between the following asset types: BTC, ETH, LTC, ZEC, BCH, BNB, ERC20 and BEP20 tokens.
 

@@ -1,3 +1,3 @@
-# Why 'receive' button for the coin appears disabled?
+# Why does the 'receive' button for the coin appear disabled?
 
-The only case when the button to 'Receive' or deposit cryptocurrency to the wallet should appear disabled is when a user hasn't completed backup steps for the active wallet.
+The only case when the button to 'Receive' or deposit some cryptocurrency to Coinclass wallet may appear disabled is when a user hasn't completed backup steps for the wallet.

@@ -1,14 +1,15 @@
-# What should someone do before using Unstoppable?
+# What to do before using Coinclass
 
-Before doing anything on Unstoppable you're strongly encouraged to go over the Academy section and get familiar with essential aspects of cryptocurrency and DeFi ecosystem.
+Before doing anything on Coinclass, users are encouraged to go over the Academy section and get familiar with essential aspects of cryptocurrency and the DeFi ecosystem.
 
-The Academy was built to educate users looking to decentralize existing capital by investing into cryptocurrencies and the DeFi ecosystem. It covers all important aspects, from security fundamentals to DeFi opportunities.
+The Academy was built to educate users looking to decentralize capital by investing in cryptocurrencies and the DeFi ecosystem. It covers all important aspects, from security fundamentals to DeFi.
 
 The Academy goes well beyond covering basics and aims to:
 
-- take someone from 'zero knowledge' to a level where that person has a solid understanding of how cryptocurrency storage, security and privacy works.
-- onboard someone into the DeFi ecosystem, how it works, opportunities it provides and how to get started.
+1. take someone from 'zero knowledge' to a level with a solid understanding of how cryptocurrency storage, security and privacy works.
 
-The Academy is accessible both from in-app as well as externally on https://litrex.academy.
+2. onboard someone into the DeFi ecosystem, and in simple terms cover the opportunities it provides.
 
-Apart from Academy, users are recommended to go over Unstoppable terms (Settings > About section) and make sure they understand what Unstoppable wallet is and risks involved in using the app.
+The Academy is accessible in-app as well as externally at https://litrex.academy.
+
+Users are also advised to go over the App Terms (**Settings > About**) and make sure they understand what Coinclass wallet is and the risks involved while using the app.

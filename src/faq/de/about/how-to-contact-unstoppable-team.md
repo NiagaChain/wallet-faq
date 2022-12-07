@@ -1,20 +1,27 @@
-# How to contact Unstoppable Team
+# How to contact the Coinclass Team
 
-To reach out please use support.unstoppable@protonmail.com or one of the following channels:
+To reach out, please use support.Coinclass@protonmail.com, or one of the following channels:
 
-- Reddit: https://www.reddit.com/r/UNSTOPPABLEWallet/
-- Twitter: https://twitter.com/unstoppablebyhs?lang=en
-- Github: https://github.com/horizontalsystems
-- Telegram (Channel) : https://t.me/unstoppable_announcements
+Reddit
 
-Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the Unstoppable team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.
+[https://www.reddit.com/r/CoinclassWallet/](https://www.reddit.com/r/CoinclassWallet/)
 
-- Never trust anyone on Telegram or elsewhere claiming to be from the Unstoppable team. These groups are created by scammers to trick users into revealing their private keys. Be aware!
+Twitter
 
-- Never share your wallet private keys (aka 12-24 word mnemonic) with anyone, incl. Unstoppable team. All potential problems with the wallet app can be addressed without the need for a wallet private key.
+[https://twitter.com/Coinclassbyhs?lang=en](https://twitter.com/Coinclassbyhs?lang=en)
 
-When contacting the Unstoppable team regarding a problem with the wallet app i.e something is not working as expected, it's recommended that you include App Status logs with the message. Sharing app status logs do not carry any risks and are mainly needed for troubleshooting the problem effectively.
+Github
 
-The logs are located in Settings >> About App >> App Status.
+[https://github.com/coinclass](https://github.com/coinclass)
 
-If the problem relates to some transaction then also include the public transaction ID which can be located by clicking on the respective transaction on the Transactions page.
+Do not trust anyone outside official channels. There are a number of fake groups and channels impersonating the Coinclass team on Telegram and Twitter. Be aware!
+
+Never share your wallet private keys (aka 12-24 word mnemonic) with anyone, including the Coinclass team. All potential problems with the wallet app can be addressed without the need for a wallet private key.
+
+When contacting the Coinclass team regarding a problem with the wallet app, please include:
+
+- App Status logs with the message. Sharing app status logs do not carry any risks and are mainly needed for troubleshooting the problem effectively. The logs are located in **Settings >> About App >> App Status**.
+
+- If the problem relates to a transaction, then also include the public transaction ID, which can be located by clicking on the respective transaction on the Transactions page.
+
+Never share your wallet private keys (aka 12-24 word mnemonic) with anyone!
